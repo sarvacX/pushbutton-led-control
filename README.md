@@ -73,7 +73,7 @@ The **recommended resistor value** for the LED is **220 Ω** for normal brightne
 Start
 ->
 Button Pressed?
-Yes → Turn ON LED
+Yes → Turn ON LED :
  No  → Turn OFF LED
 ->
 End
